@@ -1,6 +1,8 @@
 {
   "initialState": {
-    "mylist": [],
+    "user": {},
+    "playing": {},
+    "myList": [],
     "trends": [
       {
         "id": 2,
